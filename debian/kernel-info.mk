@@ -139,12 +139,12 @@ FLASH_IS_EXYNOS = 0
 # Device manufacturer. This must match the `ro.product.vendor.manufacturer`
 # Android property. If you don't want to specify this, leave it undefined,
 # FLASH_INFO_CPU will be checked instead.
-FLASH_INFO_MANUFACTURER = xiaomi
+FLASH_INFO_MANUFACTURER = Xiaomi
 
 # Device model. This must match the `ro.product.vendor.model`
 # Android property. If you don't want to specify this, leave it undefined,
 # FLASH_INFO_CPU will be checked instead.
-FLASH_INFO_MODEL = violet
+FLASH_INFO_MODEL = Redmi Note 7 Pro
 
 # Device CPU. This will be grepped against /proc/cpuinfo to check if
 # we're running on the specific device. Note this is a last-resort
